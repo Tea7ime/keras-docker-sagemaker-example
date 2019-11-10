@@ -1,4 +1,4 @@
-### Keras Docker & Sagemaker Example
+# Keras Docker & Sagemaker Example
 
 This example was modified from:
 https://medium.com/@richardchen_81235/custom-keras-model-in-sagemaker-277a2831ac67
